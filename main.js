@@ -1,6 +1,6 @@
 const STORAGE_KEY = 'STORAGE_KEY'
 
-const kingdomName = 'Ribbon'
+const kingdomName = '캐슬'
 
 class ErrorBoundary extends React.Component {
   constructor(props) {

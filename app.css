@@ -430,7 +430,7 @@ body {
 
 .s3-reward-dummy {
     width: 100%;
-    flex: 1;
+    flex: 0.6;
     padding: 20px 0;
     font-size: 14px;
 }
