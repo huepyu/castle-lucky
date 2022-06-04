@@ -276,7 +276,6 @@ const members = [
   { name: '휴퓨' },
   { name: '츄퓨' },
   { name: 'Mookie' },
-  { name: '가오세요' },
   { name: '킴과자' },
   { name: '곽만송' },
   { name: '박나영' },
@@ -320,6 +319,7 @@ const members = [
   { name: 'Jason82' },
   { name: 'SHOT' },
   { name: '쿠마입니다' },
+  { name: '구희' },
 ]
   .sort((a, b) => {
     if (a.name < b.name) {
