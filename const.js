@@ -24,7 +24,7 @@ const members = [
   { name: '섬광의나나' },
   { name: '스브리' },
   { name: '시비' },
-  { name: '여름이' },
+  { name: '나만의여름' },
   { name: '오공디' },
   { name: '우1치' },
   { name: '유연' },
