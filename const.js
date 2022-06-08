@@ -27,7 +27,6 @@ const members = [
   { name: '나만의여름' },
   { name: '오공디' },
   { name: '우1치' },
-  { name: '유연' },
   { name: '작은별' },
   { name: '조조' },
   { name: '지탱이' },
