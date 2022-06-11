@@ -17,7 +17,7 @@ const members = [
   { name: '몽뭉몽뭉잉' },
   { name: '문현빈' },
   { name: '므s' },
-  { name: '봄여름가울겨울' },
+  { name: '봄여름가을겨울' },
   { name: '삐누' },
   { name: '사나찡' },
   { name: '생명' },
