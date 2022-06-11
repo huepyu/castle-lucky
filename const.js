@@ -46,6 +46,7 @@ const members = [
   { name: 'SHOT' },
   { name: '쿠마입니다' },
   { name: '구희' },
+  { name: '유연' },
 ]
   .sort((a, b) => {
     if (a.name < b.name) {
