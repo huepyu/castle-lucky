@@ -41,7 +41,8 @@ const members = [
   { name: '엘츄' },
   { name: '나랑고양이' },
   { name: '니진' },
-  { name: '멍멍이씨' }
+  { name: '멍멍이씨' },
+  { name: '얼짱' },
 ]
   .sort((a, b) => {
     if (a.name < b.name) {
