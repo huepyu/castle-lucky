@@ -17,7 +17,7 @@ const members = [
   { name: '섬광의나나' },
   { name: '스브리' },
   { name: '시비' },
-  { name: '너만의여름' },
+  { name: '제니S2' },
   { name: '오공디' },
   { name: '우1치' },
   { name: '작은별' },
@@ -33,15 +33,15 @@ const members = [
   { name: '클린아티' },
   { name: '파라블로' },
   { name: '해긔' },
-  { name: '햇디무' },
   { name: '이십사수' },
-  { name: 'SHOT' },
   { name: '쿠마입니다' },
   { name: '구희' },
   { name: '유연' },
   { name: '유소나' },
   { name: '엘츄' },
   { name: '나랑고양이' },
+  { name: '니진' },
+  { name: '멍멍이씨' }
 ]
   .sort((a, b) => {
     if (a.name < b.name) {
